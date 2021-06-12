@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/rincon-car-wash-site",
+    "public": "dist/rincon-carwash-site",
     "ignore": [
       "firebase.json",
       "**/.*",
